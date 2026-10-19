@@ -18,11 +18,7 @@ A small browser tool that slices a glyph into strips and pushes each strip along
 
 ## Run locally
 
-It is a single self-contained `index.html`. Open it in a browser, or serve the folder:
-
-```sh
-python3 -m http.server
-```
+It is a single self-contained `index.html`. Open it in a browser.
 
 The only external dependencies are [opentype.js](https://github.com/opentypejs/opentype.js) from cdnjs and the UI fonts from Google Fonts.
 
